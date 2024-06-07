@@ -1,0 +1,15 @@
+/venv/
+.venv
+__pycache__/
+.DS_Store
+*.env
+.vscode/
+.idea/
+/tests/
+docker-compose.yml
+back/alembic/versions/
+alembic.ini
+barcode.png
+code128.pdf
+backup
+/Расширение Chrome/
